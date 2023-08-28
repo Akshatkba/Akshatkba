@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshat Bansal</h1>
 <h3 align="center">A Computer Engineering UnderGrad.</h3>
 
-- 🌱 I’m currently learning **Front-end and Machine Learning.**
+- 🌱 I’m currently learning **React and Data Structures.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
