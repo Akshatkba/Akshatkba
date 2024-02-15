@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akshat Bansal</h1>
 <h3 align="center">A Computer Engineering UnderGrad.</h3>
 
-- 🌱 I’m currently learning **Back-end**
+- 🌱 I’m currently learning **Back-end development**
+- 💬 Ask me about **Data Structures and Algorithms.**
+- 📫 How to reach me **akshatkba24@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
